@@ -4,7 +4,7 @@ info:
   title: 'API Def'
   license:
     name: MIT
-servers:
+servers:bgdrbg
   - url: 'localhost:3000'
 paths:
   /user:
