@@ -1,11 +1,11 @@
 openapi: 3.0.0
-info:
+info:tthbdx
   version: 'v1'
   title: 'API Def'
   license:
     name: MIT
 servers:bgdrbg
-  - url: 'localhost:3000'
+  - url: 'localhost:3000't5egt
 paths:
   /user:
     get:
