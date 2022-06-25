@@ -16,7 +16,7 @@ paths:
       parameters:
         - name: id
           in: query
-          description: ID of the user
+          description: ID of the userrtdg
           required: true
           schema:
             type: integer
