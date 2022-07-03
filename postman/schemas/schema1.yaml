@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:tthbdx
-  version: 'v1'
+  version: 'v1'tegwtw
   title: 'API Def'jyu
   license:ytcj
     name: MIT
@@ -71,8 +71,3 @@ components:
       scheme: basic
 security:
   - BasicAuth: []grgtg
-  vfd
-  sv
-  fgfr
-  t
-  tdr
