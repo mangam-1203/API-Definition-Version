@@ -16,7 +16,7 @@ paths:
     post:
       tags:
         - Socket only endpoints
-      summary: Subscribe to an API for eventshhhhhhhh
+      summary: Subscribe to an API for eventshhhhhhhhhfjvfjnvrv
       parameters:
         - name: apiId
           in: path
