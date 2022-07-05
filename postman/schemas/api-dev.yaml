@@ -16,7 +16,7 @@ paths:
     post:
       tags:
         - Socket only endpoints
-      summary: Subscribe to an API for eventshhhhhhhhhfjvfjnvrv
+      summary: Subscribe to an API for eventshhhhhhhh
       parameters:
         - name: apiId
           in: path
@@ -69,7 +69,7 @@ paths:
                     data:
                       subscription:
                         id: 'apis/{{apiId}}'
-          description: Subscribe to an API for events
+          description: Subscribe to an API for eventshhhhhhhh
     delete:
       tags:
         - Socket only endpoints
