@@ -91,7 +91,7 @@ paths:
                     type: object
                     required:
                       - model
-                      - action
+                      - actionisisisi
                     properties:
                       model:
                         type: string
