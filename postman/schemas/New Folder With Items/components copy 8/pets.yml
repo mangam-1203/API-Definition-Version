@@ -1,3 +1,0 @@
-type: array
-items:
-  $ref: '../openapi.yml#/components/schemas/Pet'
